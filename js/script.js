@@ -141,50 +141,50 @@ searchBtnClose.addEventListener('click', function() {
 
 // select hero
 
-// const element = document.querySelector('#selectCustom');
-//     const choices = new Choices (element, {
-//         searchEnabled: false,
-//         itemSelectText: '',
-//         sorter: function(a, b) {
-//             return a.label.element - b.label.element;
-//         },
-//     });
+const element = document.querySelector('#selectCustom');
+    const choices = new Choices (element, {
+        searchEnabled: false,
+        itemSelectText: '',
+        sorter: function(a, b) {
+            return a.label.element - b.label.element;
+        },
+    });
 
-// const element2 = document.querySelector('#selectCustom2');
-//     const choices2 = new Choices (element2, {
-//         searchEnabled: false,
-//         itemSelectText: '',
-//         sorter: function(a, b) {
-//             return a.label.element - b.label.element;
-//         },
-//     });
+const element2 = document.querySelector('#selectCustom2');
+    const choices2 = new Choices (element2, {
+        searchEnabled: false,
+        itemSelectText: '',
+        sorter: function(a, b) {
+            return a.label.element - b.label.element;
+        },
+    });
 
-// const element3 = document.querySelector('#selectCustom3');
-//     const choices3 = new Choices (element3, {
-//         searchEnabled: false,
-//         itemSelectText: '',
-//         sorter: function(a, b) {
-//             return a.label.element - b.label.element;
-//         },
-//     });
+const element3 = document.querySelector('#selectCustom3');
+    const choices3 = new Choices (element3, {
+        searchEnabled: false,
+        itemSelectText: '',
+        sorter: function(a, b) {
+            return a.label.element - b.label.element;
+        },
+    });
 
-// const element4 = document.querySelector('#selectCustom4');
-//     const choices4 = new Choices (element4, {
-//         searchEnabled: false,
-//         itemSelectText: '',
-//         sorter: function(a, b) {
-//             return a.label.element - b.label.element;
-//         },
-//     });
+const element4 = document.querySelector('#selectCustom4');
+    const choices4 = new Choices (element4, {
+        searchEnabled: false,
+        itemSelectText: '',
+        sorter: function(a, b) {
+            return a.label.element - b.label.element;
+        },
+    });
 
-// const element5 = document.querySelector('#selectCustom5');
-//     const choices5 = new Choices (element5, {
-//         searchEnabled: false,
-//         itemSelectText: '',
-//         sorter: function(a, b) {
-//             return a.label.element - b.label.element;
-//         },
-//     });
+const element5 = document.querySelector('#selectCustom5');
+    const choices5 = new Choices (element5, {
+        searchEnabled: false,
+        itemSelectText: '',
+        sorter: function(a, b) {
+            return a.label.element - b.label.element;
+        },
+    });
 
 
 
