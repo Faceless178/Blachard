@@ -187,7 +187,7 @@ body {
 	top: 50%;
 	left: 0px;
 	transform: translateY(-50%);
-    background-image: url(img/header/header__arrow.svg);
+    background-image: url(../img/header/header__arrow.svg);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -221,7 +221,7 @@ body {
 .login:hover::before {
     width: 20px;
     height: 20px;
-    background-image: url(img/header/header__arrow-hover.svg);
+    background-image: url(../img/header/header__arrow-hover.svg);
 }
 
 .login:active {
@@ -231,7 +231,7 @@ body {
 .login:active::before {
     width: 20px;
     height: 20px;
-    background-image: url(img/header/header__arrow-active.svg);
+    background-image: url(../img/header/header__arrow-active.svg);
 }
 
 /* focus,hover,active:login */
